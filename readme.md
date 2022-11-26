@@ -21,4 +21,4 @@ Project DEMO Video : [Link](https://drive.google.com/file/d/11W27uPUHuCTogSf9-vF
 
 Project Live at : [Link](https://news-tracker-ibm.albyzyx.dev)
 
-FINAL REPORT[PDF] : [Link](https://github.com/IBM-EPBL/IBM-Project-22781-1659858111/blob/main/Phases/Final%20Deliverables/PROJECT_FINAL_REPORT.pdf)
+FINAL REPORT[PDF] : [Link](https://github.com/IBM-EPBL/IBM-Project-25366-1659960687/blob/main/Phases/Final%20deliverables/IBM-25366-1662611471.pdf)
